@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\bin\Debug\net6.0\Visma_meetings_app.exe
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\bin\Debug\net6.0\Visma_meetings_app.deps.json
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\bin\Debug\net6.0\Visma_meetings_app.runtimeconfig.json
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\bin\Debug\net6.0\Visma_meetings_app.dll
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\bin\Debug\net6.0\Visma_meetings_app.pdb
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.AssemblyInfo.cs
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.dll
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\refint\Visma_meetings_app.dll
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.pdb
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\Visma_meetings_app.genruntimeconfig.cache
+C:\Users\PC\source\repos\Visma_meetings_app\Visma_meetings_app\obj\Debug\net6.0\ref\Visma_meetings_app.dll
